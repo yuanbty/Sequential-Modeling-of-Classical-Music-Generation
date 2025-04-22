@@ -14,4 +14,5 @@ The MIDI files in this dataset represent a wide range of classical music styles 
 
 The use of MIDI files is particularly advantageous for musical analysis as they contain precise information about the notes, timings, and dynamics of the performance, making them ideal for detailed computational analysis aimed at understanding and modeling classical music composition and performance practices.
 
-## For Data Preprocessing, Pipeline, Modelngs, and Results... Check Report.pdf
+## For Data Preprocessing, Pipeline, Modelngs, and Results
+Check Report.pdf
